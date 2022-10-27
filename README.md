@@ -1,4 +1,4 @@
-Olá eu sou a Kátia Santana
+## Olá!! Eu sou a Katia Santana  😉
 
 - 💻 Estagiária na PagSeguro
 - 🎓 Formada em Gestão de Recursos Humanos
